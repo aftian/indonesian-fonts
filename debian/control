@@ -1,0 +1,19 @@
+Source: indonesian-fonts
+Section: x11
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.8.0
+Homepage: http://code.google.com/p/aksara-nusantara
+
+Package: ttf-indonesian
+Architecture: all
+Depends: defoma
+Description: Indonesian traditional script fonts
+ This package contain Indonesian traditional script fonts :
+     Lontara font for Buginese Language using Lontara' script
+     Nanggar font for Batak Language using Batak Toba script
+     Sunda font for Sundanese Language using Sundanese script 
+     Bali font for Balinese Language using Balinese script
+     Rejang font for Rejang Language using Rejang script
+
